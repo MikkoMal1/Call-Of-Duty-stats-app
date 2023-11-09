@@ -1,0 +1,7 @@
+{
+  "name": "MW2 stats app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
